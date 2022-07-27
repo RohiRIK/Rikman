@@ -1,4 +1,4 @@
-# python_tools
+# WPE
 
 This script may only be used for academic and research purposes. The user is entirely responsible for any usage that is not for these purposes.
 
